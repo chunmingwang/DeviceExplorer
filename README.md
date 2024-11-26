@@ -1,6 +1,6 @@
 # DeviceExplorer
 DeviceExplorer Example for VisualFBEditor
 
-![image](https://github.com/user-attachments/assets/c9b5bd6c-10a0-48ac-a9d6-6288d7afbf6e)
+![image](https://github.com/user-attachments/assets/273b6f49-dd0c-42c8-8fd2-804128f510dd)
 
-![image](https://github.com/user-attachments/assets/e0315b4d-a2fa-4bc7-aa1f-0932d466d5ea)
+![image](https://github.com/user-attachments/assets/b2649993-3743-4418-ba92-d917736f9245)
